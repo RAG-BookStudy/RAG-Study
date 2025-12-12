@@ -54,7 +54,7 @@
 
 | 이름 | GitHub |
 |:---:|:---:|
-| 성호 | [![Pakkoc](https://github.com/Pakkoc.png?size=50)](https://github.com/Pakkoc) |
+| 성호 | [![GitHub](https://img.shields.io/badge/GitHub-Pakkoc-181717?style=flat&logo=github)](https://github.com/Pakkoc) |
 
 ## 📚 참고 자료
 
